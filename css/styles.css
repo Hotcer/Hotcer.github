@@ -676,8 +676,7 @@ margin: 10px 0 !important;
 	padding-left: 19%;
 	padding-right: 8%;
 }
-.grid .grid-item {
-}
+
 .grid .text-content h5 {
 	font-weight: bold;
 }
@@ -783,7 +782,7 @@ a.current {
 }
 .portfolio-items article img {
 	width: 100%;
-	height: 32vh;
+	height: 30vh;
 }
 .portfolio-item {
 	display: block;
